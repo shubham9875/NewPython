@@ -1,0 +1,9 @@
+a=45.6
+s=int(a)
+print(s)
+x='1234'
+y='123'
+z=x+y
+z=int(z)
+print(z)
+print(type(z))
